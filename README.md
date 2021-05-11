@@ -1,4 +1,6 @@
-## My Project
+## AWS App Runner Roadmap
+
+This is a public roadmap for AWS App Runner. We learnt from customers that knowing about our upcoming features and priorities helps them plan. This repository contains information about what we are working on and allows customers to give direct feedback.
 
 TODO: Fill this README out!
 
